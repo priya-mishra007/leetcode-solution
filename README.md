@@ -28,4 +28,8 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/priya-mishra007/leetcode-solution/tree/master/1291-sequential-digits) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/priya-mishra007/leetcode-solution/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
