@@ -7,15 +7,18 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/priya-mishra007/leetcode-solution/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/priya-mishra007/leetcode-solution/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/priya-mishra007/leetcode-solution/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priya-mishra007/leetcode-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sorting
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/priya-mishra007/leetcode-solution/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 ## String
 |  |
@@ -38,4 +41,8 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | ------- |
 | [0175-combine-two-tables](https://github.com/priya-mishra007/leetcode-solution/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/priya-mishra007/leetcode-solution/tree/master/0181-employees-earning-more-than-their-managers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/priya-mishra007/leetcode-solution/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
