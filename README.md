@@ -41,6 +41,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | ------- |
 | [0009-palindrome-number](https://github.com/priya-mishra007/leetcode-solution/tree/master/0009-palindrome-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/priya-mishra007/leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Database
 |  |
 | ------- |
