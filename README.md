@@ -10,6 +10,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [0645-set-mismatch](https://github.com/priya-mishra007/leetcode-solution/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priya-mishra007/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/priya-mishra007/leetcode-solution/tree/master/1441-build-an-array-with-stack-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,4 +58,12 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/priya-mishra007/leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Stack
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/priya-mishra007/leetcode-solution/tree/master/1441-build-an-array-with-stack-operations) |
+## Simulation
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/priya-mishra007/leetcode-solution/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
