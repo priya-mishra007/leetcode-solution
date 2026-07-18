@@ -2,9 +2,13 @@ class Solution {
     public int findGCD(int[] nums) {
         int min = nums[0];
         int max = nums[0];
-        for(int num : nums){
-            min = Math.min(min, num);
-            max = Math.max(max, num);
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] < min) {
+                min = nums[i];
+            }
+            if (nums[i] > max) {
+                max = nums[i];
+            }
         }
         return gcd(min, max);
     }
