@@ -6,6 +6,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/priya-mishra007/leetcode-solution/tree/master/0001-two-sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/priya-mishra007/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0485-max-consecutive-ones](https://github.com/priya-mishra007/leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/priya-mishra007/leetcode-solution/tree/master/0645-set-mismatch) |
@@ -17,6 +18,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/priya-mishra007/leetcode-solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priya-mishra007/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0645-set-mismatch](https://github.com/priya-mishra007/leetcode-solution/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/priya-mishra007/leetcode-solution/tree/master/1189-maximum-number-of-balloons) |
