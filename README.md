@@ -16,6 +16,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [1331-rank-transform-of-an-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priya-mishra007/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/priya-mishra007/leetcode-solution/tree/master/1441-build-an-array-with-stack-operations) |
+| [1929-concatenation-of-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/priya-mishra007/leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -93,6 +94,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/priya-mishra007/leetcode-solution/tree/master/1441-build-an-array-with-stack-operations) |
+| [1929-concatenation-of-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/priya-mishra007/leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
