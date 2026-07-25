@@ -37,6 +37,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [0645-set-mismatch](https://github.com/priya-mishra007/leetcode-solution/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priya-mishra007/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/priya-mishra007/leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/priya-mishra007/leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -63,6 +64,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/priya-mishra007/leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/priya-mishra007/leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/priya-mishra007/leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
