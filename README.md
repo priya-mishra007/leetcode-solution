@@ -12,6 +12,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [0118-pascals-triangle](https://github.com/priya-mishra007/leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/priya-mishra007/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/priya-mishra007/leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/priya-mishra007/leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priya-mishra007/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -149,6 +150,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/priya-mishra007/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
