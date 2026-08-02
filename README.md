@@ -17,6 +17,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [0486-predict-the-winner](https://github.com/priya-mishra007/leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priya-mishra007/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/priya-mishra007/leetcode-solution/tree/master/0645-set-mismatch) |
+| [0877-stone-game](https://github.com/priya-mishra007/leetcode-solution/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priya-mishra007/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -80,6 +81,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [0150-evaluate-reverse-polish-notation](https://github.com/priya-mishra007/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0486-predict-the-winner](https://github.com/priya-mishra007/leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priya-mishra007/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/priya-mishra007/leetcode-solution/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -148,6 +150,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [0118-pascals-triangle](https://github.com/priya-mishra007/leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
 | [0486-predict-the-winner](https://github.com/priya-mishra007/leetcode-solution/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/priya-mishra007/leetcode-solution/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -173,4 +176,5 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/priya-mishra007/leetcode-solution/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/priya-mishra007/leetcode-solution/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
