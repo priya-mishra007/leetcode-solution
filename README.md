@@ -83,6 +83,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | ------- |
 | [1291-sequential-digits](https://github.com/priya-mishra007/leetcode-solution/tree/master/1291-sequential-digits) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
 |  |
@@ -96,6 +97,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [1406-stone-game-iii](https://github.com/priya-mishra007/leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/priya-mishra007/leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
