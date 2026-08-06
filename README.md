@@ -112,6 +112,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [0584-find-customer-referee](https://github.com/priya-mishra007/leetcode-solution/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/priya-mishra007/leetcode-solution/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0620-not-boring-movies](https://github.com/priya-mishra007/leetcode-solution/tree/master/0620-not-boring-movies) |
+| [1045-customers-who-bought-all-products](https://github.com/priya-mishra007/leetcode-solution/tree/master/1045-customers-who-bought-all-products) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/priya-mishra007/leetcode-solution/tree/master/1280-students-and-examinations) |
