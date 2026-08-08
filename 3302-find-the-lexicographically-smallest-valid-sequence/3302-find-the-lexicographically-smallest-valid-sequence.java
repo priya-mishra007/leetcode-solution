@@ -4,21 +4,22 @@ class Solution {
         int m = word2.length();
         int[] suf = new int[n + 1];
         int j = m - 1;
-        for(int i = n - 1; i >= 0; i--){
-            if(j >= 0 && word1.charAt(i) == word2.charAt(j))
+        for (int i = n - 1; i >= 0; i--) {
+            suf[i] = suf[i + 1];
+            if (j >= 0 && word1.charAt(i) == word2.charAt(j)) {
+                suf[i]++;
                 j--;
-            suf[i] = m - 1 - j;
+            }
         }
         int[] ans = new int[m];
         int k = 0;
         j = 0;
         boolean used = false;
-        for(int i = 0; i < n && k < m; i++){
-            if(word1.charAt(i) == word2.charAt(j)){
+        for (int i = 0; i < n && k < m; i++) {
+            if (word1.charAt(i) == word2.charAt(j)) {
                 ans[k++] = i;
                 j++;
-            }
-            else if (!used && suf[i + 1] >= m - j -1){
+            } else if (!used && j < m && suf[i + 1] >= m - j - 1) {
                 ans[k++] = i;
                 j++;
                 used = true;
