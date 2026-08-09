@@ -218,10 +218,12 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/priya-mishra007/leetcode-solution/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/priya-mishra007/leetcode-solution/tree/master/1406-stone-game-iii) |
 ## Depth-First Search
 |  |
