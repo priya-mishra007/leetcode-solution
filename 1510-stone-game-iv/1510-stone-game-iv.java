@@ -1,15 +1,19 @@
 class Solution {
-    boolean dp[] = new boolean[100001];
-    public boolean winnerSquareGame(int n) {
-        if(n == 0)
+    Boolean[] dp;
+    public boolean game(int i) {
+        if (i == 0)
             return false;
-        if(dp[n])
-            return dp[n];
-        for(int i = 1; i * i <= n; i++){
-            if(winnerSquareGame(n - i * i) == false){
-                return dp[n] = true;
+        if (dp[i] != null)
+            return dp[i];
+        for (int j = 1; j * j <= i; j++) {
+            if (!game(i - j * j)) {
+                return dp[i] = true;
             }
         }
-        return dp[n] = false;
+        return dp[i] = false;
+    }
+    public boolean winnerSquareGame(int n) {
+        dp = new Boolean[n + 1];
+        return game(n);
     }
 }
