@@ -118,6 +118,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [0181-employees-earning-more-than-their-managers](https://github.com/priya-mishra007/leetcode-solution/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0262-trips-and-users](https://github.com/priya-mishra007/leetcode-solution/tree/master/0262-trips-and-users) |
 | [0584-find-customer-referee](https://github.com/priya-mishra007/leetcode-solution/tree/master/0584-find-customer-referee) |
+| [0585-investments-in-2016](https://github.com/priya-mishra007/leetcode-solution/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/priya-mishra007/leetcode-solution/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0608-tree-node](https://github.com/priya-mishra007/leetcode-solution/tree/master/0608-tree-node) |
 | [0620-not-boring-movies](https://github.com/priya-mishra007/leetcode-solution/tree/master/0620-not-boring-movies) |
