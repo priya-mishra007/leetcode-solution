@@ -97,6 +97,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/priya-mishra007/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/priya-mishra007/leetcode-solution/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/priya-mishra007/leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/priya-mishra007/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -215,6 +216,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/priya-mishra007/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/priya-mishra007/leetcode-solution/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -260,4 +262,8 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/priya-mishra007/leetcode-solution/tree/master/1510-stone-game-iv) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/priya-mishra007/leetcode-solution/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
