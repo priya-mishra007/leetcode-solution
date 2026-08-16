@@ -29,6 +29,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/priya-mishra007/leetcode-solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/priya-mishra007/leetcode-solution/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priya-mishra007/leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priya-mishra007/leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -112,6 +113,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [1406-stone-game-iii](https://github.com/priya-mishra007/leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/priya-mishra007/leetcode-solution/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/priya-mishra007/leetcode-solution/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -153,6 +155,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/priya-mishra007/leetcode-solution/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priya-mishra007/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2029-stone-game-ix](https://github.com/priya-mishra007/leetcode-solution/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Number Theory
@@ -183,6 +186,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/priya-mishra007/leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/priya-mishra007/leetcode-solution/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priya-mishra007/leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -231,6 +235,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [1140-stone-game-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/priya-mishra007/leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/priya-mishra007/leetcode-solution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/priya-mishra007/leetcode-solution/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -241,12 +246,14 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [1140-stone-game-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/priya-mishra007/leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/priya-mishra007/leetcode-solution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/priya-mishra007/leetcode-solution/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/priya-mishra007/leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/priya-mishra007/leetcode-solution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/priya-mishra007/leetcode-solution/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -263,6 +270,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/priya-mishra007/leetcode-solution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/priya-mishra007/leetcode-solution/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
