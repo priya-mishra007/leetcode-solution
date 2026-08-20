@@ -34,6 +34,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priya-mishra007/leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priya-mishra007/leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/priya-mishra007/leetcode-solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -182,6 +183,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/priya-mishra007/leetcode-solution/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/priya-mishra007/leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
