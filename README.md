@@ -35,6 +35,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priya-mishra007/leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priya-mishra007/leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/priya-mishra007/leetcode-solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -123,6 +124,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/priya-mishra007/leetcode-solution/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priya-mishra007/leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -155,6 +157,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/priya-mishra007/leetcode-solution/tree/master/0645-set-mismatch) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priya-mishra007/leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/priya-mishra007/leetcode-solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -170,6 +173,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priya-mishra007/leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/priya-mishra007/leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/priya-mishra007/leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -220,6 +224,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/priya-mishra007/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priya-mishra007/leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -290,4 +295,8 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/priya-mishra007/leetcode-solution/tree/master/0002-add-two-numbers) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priya-mishra007/leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
