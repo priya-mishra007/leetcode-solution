@@ -117,6 +117,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [0486-predict-the-winner](https://github.com/priya-mishra007/leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priya-mishra007/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/priya-mishra007/leetcode-solution/tree/master/0877-stone-game) |
+| [0878-nth-magical-number](https://github.com/priya-mishra007/leetcode-solution/tree/master/0878-nth-magical-number) |
 | [1140-stone-game-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/priya-mishra007/leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/priya-mishra007/leetcode-solution/tree/master/1510-stone-game-iv) |
@@ -225,6 +226,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/priya-mishra007/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0878-nth-magical-number](https://github.com/priya-mishra007/leetcode-solution/tree/master/0878-nth-magical-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priya-mishra007/leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |
@@ -300,4 +302,12 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priya-mishra007/leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Least Common Multiple
+|  |
+| ------- |
+| [0878-nth-magical-number](https://github.com/priya-mishra007/leetcode-solution/tree/master/0878-nth-magical-number) |
+## Inclusion-Exclusion Principle
+|  |
+| ------- |
+| [0878-nth-magical-number](https://github.com/priya-mishra007/leetcode-solution/tree/master/0878-nth-magical-number) |
 <!---LeetCode Topics End-->
