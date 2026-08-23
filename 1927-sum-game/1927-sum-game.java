@@ -1,31 +1,15 @@
 class Solution {
     public boolean sumGame(String num) {
-        int n = num.length();
-        int half = n / 2;
-        int leftSum = 0;
-        int rightSum = 0;
-        int leftQ = 0;
-        int rightQ = 0;
+        final int n = num.length();
+        double ans = 0.0;
+        for (int i = 0; i < n / 2; ++i)
+            ans += getExpectation(num.charAt(i));
+        for (int i = n / 2; i < n; ++i)
+            ans -= getExpectation(num.charAt(i));
+        return ans != 0.0;
+    }
 
-        for (int i = 0; i < half; i++) {
-            if (num.charAt(i) == '?') {
-                leftQ++;
-            } else {
-                leftSum += num.charAt(i) - '0';
-            }
-        }
-        for (int i = half; i < n; i++) {
-            if (num.charAt(i) == '?') {
-                rightQ++;
-            } else {
-                rightSum += num.charAt(i) - '0';
-            }
-        }
-        int totalQ = leftQ + rightQ;
-        int diff = leftSum - rightSum;
-        if (totalQ % 2 == 1) {
-            return true;
-        }
-        return 2 * diff != 9 * (rightQ - leftQ);
+    private double getExpectation(char c) {
+        return c == '?' ? 4.5 : c - '0';
     }
 }
