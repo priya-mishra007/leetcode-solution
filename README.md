@@ -64,6 +64,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/priya-mishra007/leetcode-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/priya-mishra007/leetcode-solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/priya-mishra007/leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/priya-mishra007/leetcode-solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/priya-mishra007/leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -98,6 +99,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/priya-mishra007/leetcode-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priya-mishra007/leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/priya-mishra007/leetcode-solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -113,6 +115,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/priya-mishra007/leetcode-solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -180,6 +183,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [2029-stone-game-ix](https://github.com/priya-mishra007/leetcode-solution/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/priya-mishra007/leetcode-solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
@@ -216,6 +220,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priya-mishra007/leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/priya-mishra007/leetcode-solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Monotonic Stack
 |  |
 | ------- |
