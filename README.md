@@ -93,6 +93,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priya-mishra007/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/priya-mishra007/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/priya-mishra007/leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/priya-mishra007/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/priya-mishra007/leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -218,6 +219,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/priya-mishra007/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0977-squares-of-a-sorted-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priya-mishra007/leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/priya-mishra007/leetcode-solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -240,6 +242,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/priya-mishra007/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/priya-mishra007/leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
 | [0486-predict-the-winner](https://github.com/priya-mishra007/leetcode-solution/tree/master/0486-predict-the-winner) |
@@ -350,4 +353,8 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/priya-mishra007/leetcode-solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/priya-mishra007/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
