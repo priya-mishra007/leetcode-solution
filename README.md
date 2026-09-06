@@ -8,6 +8,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | ------- |
 | [0001-two-sum](https://github.com/priya-mishra007/leetcode-solution/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/priya-mishra007/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0055-jump-game](https://github.com/priya-mishra007/leetcode-solution/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/priya-mishra007/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/priya-mishra007/leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
@@ -227,6 +228,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/priya-mishra007/leetcode-solution/tree/master/0055-jump-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/priya-mishra007/leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/priya-mishra007/leetcode-solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/priya-mishra007/leetcode-solution/tree/master/2029-stone-game-ix) |
@@ -243,6 +245,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/priya-mishra007/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/priya-mishra007/leetcode-solution/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/priya-mishra007/leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
 | [0486-predict-the-winner](https://github.com/priya-mishra007/leetcode-solution/tree/master/0486-predict-the-winner) |
