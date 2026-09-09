@@ -181,6 +181,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [1193-monthly-transactions-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/priya-mishra007/leetcode-solution/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/priya-mishra007/leetcode-solution/tree/master/1341-movie-rating) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/priya-mishra007/leetcode-solution/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Bit Manipulation
 |  |
 | ------- |
