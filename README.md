@@ -8,6 +8,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | ------- |
 | [0001-two-sum](https://github.com/priya-mishra007/leetcode-solution/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/priya-mishra007/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/priya-mishra007/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0055-jump-game](https://github.com/priya-mishra007/leetcode-solution/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/priya-mishra007/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/priya-mishra007/leetcode-solution/tree/master/0118-pascals-triangle) |
@@ -97,6 +98,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [0005-longest-palindromic-substring](https://github.com/priya-mishra007/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/priya-mishra007/leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/priya-mishra007/leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/priya-mishra007/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/priya-mishra007/leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/priya-mishra007/leetcode-solution/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priya-mishra007/leetcode-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -363,4 +365,8 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/priya-mishra007/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/priya-mishra007/leetcode-solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
