@@ -24,6 +24,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [0877-stone-game](https://github.com/priya-mishra007/leetcode-solution/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/1140-stone-game-ii) |
+| [1306-jump-game-iii](https://github.com/priya-mishra007/leetcode-solution/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priya-mishra007/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/priya-mishra007/leetcode-solution/tree/master/1406-stone-game-iii) |
@@ -325,10 +326,12 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 ## Depth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/priya-mishra007/leetcode-solution/tree/master/1306-jump-game-iii) |
 | [3310-remove-methods-from-project](https://github.com/priya-mishra007/leetcode-solution/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/priya-mishra007/leetcode-solution/tree/master/1306-jump-game-iii) |
 | [3310-remove-methods-from-project](https://github.com/priya-mishra007/leetcode-solution/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
