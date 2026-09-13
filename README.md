@@ -26,6 +26,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [1140-stone-game-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1306-jump-game-iii](https://github.com/priya-mishra007/leetcode-solution/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
+| [1345-jump-game-iv](https://github.com/priya-mishra007/leetcode-solution/tree/master/1345-jump-game-iv) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priya-mishra007/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/priya-mishra007/leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/priya-mishra007/leetcode-solution/tree/master/1441-build-an-array-with-stack-operations) |
@@ -65,6 +66,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [0645-set-mismatch](https://github.com/priya-mishra007/leetcode-solution/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/priya-mishra007/leetcode-solution/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
+| [1345-jump-game-iv](https://github.com/priya-mishra007/leetcode-solution/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priya-mishra007/leetcode-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priya-mishra007/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priya-mishra007/leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -332,6 +334,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/priya-mishra007/leetcode-solution/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/priya-mishra007/leetcode-solution/tree/master/1345-jump-game-iv) |
 | [3310-remove-methods-from-project](https://github.com/priya-mishra007/leetcode-solution/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
