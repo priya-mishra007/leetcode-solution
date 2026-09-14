@@ -142,6 +142,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [0150-evaluate-reverse-polish-notation](https://github.com/priya-mishra007/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0486-predict-the-winner](https://github.com/priya-mishra007/leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priya-mishra007/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/priya-mishra007/leetcode-solution/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/priya-mishra007/leetcode-solution/tree/master/0877-stone-game) |
 | [0878-nth-magical-number](https://github.com/priya-mishra007/leetcode-solution/tree/master/0878-nth-magical-number) |
 | [1140-stone-game-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/1140-stone-game-ii) |
@@ -378,4 +379,8 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/priya-mishra007/leetcode-solution/tree/master/0014-longest-common-prefix) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/priya-mishra007/leetcode-solution/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
