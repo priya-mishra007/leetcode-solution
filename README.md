@@ -103,6 +103,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [0012-integer-to-roman](https://github.com/priya-mishra007/leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/priya-mishra007/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/priya-mishra007/leetcode-solution/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/priya-mishra007/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/priya-mishra007/leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/priya-mishra007/leetcode-solution/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priya-mishra007/leetcode-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -219,6 +220,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/priya-mishra007/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/priya-mishra007/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/priya-mishra007/leetcode-solution/tree/master/0636-exclusive-time-of-functions) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/priya-mishra007/leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -388,4 +390,8 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/priya-mishra007/leetcode-solution/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/priya-mishra007/leetcode-solution/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/priya-mishra007/leetcode-solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
