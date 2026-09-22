@@ -138,6 +138,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/priya-mishra007/leetcode-solution/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/priya-mishra007/leetcode-solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/priya-mishra007/leetcode-solution/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/priya-mishra007/leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/priya-mishra007/leetcode-solution/tree/master/0013-roman-to-integer) |
