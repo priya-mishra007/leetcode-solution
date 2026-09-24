@@ -49,6 +49,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/priya-mishra007/leetcode-solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/priya-mishra007/leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/priya-mishra007/leetcode-solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/priya-mishra007/leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/priya-mishra007/leetcode-solution/tree/master/3731-find-missing-elements) |
@@ -165,6 +166,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/priya-mishra007/leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/priya-mishra007/leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/priya-mishra007/leetcode-solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/priya-mishra007/leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
