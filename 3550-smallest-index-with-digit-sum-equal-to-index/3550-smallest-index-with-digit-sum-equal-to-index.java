@@ -1,13 +1,14 @@
 class Solution {
     public int smallestIndex(int[] nums) {
         for (int i = 0; i < nums.length; i++) {
-            int temp = nums[i];
-            int digitSum = 0;
-            while (temp > 0) {
-                digitSum += temp % 10;
-                temp /= 10;
+        int n = nums[i];
+            int sum = 0;
+            while (n > 0) {
+                int digit = n % 10;
+                sum = sum + digit;
+                n = n / 10;
             }
-            if (digitSum == i) {
+            if (sum == i) {
                 return i;
             }
         }
