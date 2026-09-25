@@ -341,11 +341,13 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/priya-mishra007/leetcode-solution/tree/master/0100-same-tree) |
 | [1306-jump-game-iii](https://github.com/priya-mishra007/leetcode-solution/tree/master/1306-jump-game-iii) |
 | [3310-remove-methods-from-project](https://github.com/priya-mishra007/leetcode-solution/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/priya-mishra007/leetcode-solution/tree/master/0100-same-tree) |
 | [1306-jump-game-iii](https://github.com/priya-mishra007/leetcode-solution/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/priya-mishra007/leetcode-solution/tree/master/1345-jump-game-iv) |
 | [3310-remove-methods-from-project](https://github.com/priya-mishra007/leetcode-solution/tree/master/3310-remove-methods-from-project) |
@@ -400,4 +402,12 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/priya-mishra007/leetcode-solution/tree/master/0020-valid-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/priya-mishra007/leetcode-solution/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/priya-mishra007/leetcode-solution/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
