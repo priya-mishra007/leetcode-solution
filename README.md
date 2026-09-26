@@ -33,6 +33,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [1441-build-an-array-with-stack-operations](https://github.com/priya-mishra007/leetcode-solution/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/priya-mishra007/leetcode-solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/priya-mishra007/leetcode-solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1563-stone-game-v](https://github.com/priya-mishra007/leetcode-solution/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/priya-mishra007/leetcode-solution/tree/master/1872-stone-game-viii) |
@@ -231,6 +232,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [0636-exclusive-time-of-functions](https://github.com/priya-mishra007/leetcode-solution/tree/master/0636-exclusive-time-of-functions) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/priya-mishra007/leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/priya-mishra007/leetcode-solution/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/priya-mishra007/leetcode-solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
 |  |
 | ------- |
@@ -265,6 +267,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/priya-mishra007/leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/priya-mishra007/leetcode-solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Dynamic Programming
 |  |
 | ------- |
