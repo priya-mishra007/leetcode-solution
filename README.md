@@ -107,6 +107,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [0013-roman-to-integer](https://github.com/priya-mishra007/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/priya-mishra007/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/priya-mishra007/leetcode-solution/tree/master/0020-valid-parentheses) |
+| [0091-decode-ways](https://github.com/priya-mishra007/leetcode-solution/tree/master/0091-decode-ways) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/priya-mishra007/leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/priya-mishra007/leetcode-solution/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priya-mishra007/leetcode-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -270,6 +271,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [0005-longest-palindromic-substring](https://github.com/priya-mishra007/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/priya-mishra007/leetcode-solution/tree/master/0055-jump-game) |
+| [0091-decode-ways](https://github.com/priya-mishra007/leetcode-solution/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/priya-mishra007/leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
 | [0486-predict-the-winner](https://github.com/priya-mishra007/leetcode-solution/tree/master/0486-predict-the-winner) |
