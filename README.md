@@ -347,12 +347,14 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/priya-mishra007/leetcode-solution/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/priya-mishra007/leetcode-solution/tree/master/0112-path-sum) |
 | [1306-jump-game-iii](https://github.com/priya-mishra007/leetcode-solution/tree/master/1306-jump-game-iii) |
 | [3310-remove-methods-from-project](https://github.com/priya-mishra007/leetcode-solution/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/priya-mishra007/leetcode-solution/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/priya-mishra007/leetcode-solution/tree/master/0112-path-sum) |
 | [1306-jump-game-iii](https://github.com/priya-mishra007/leetcode-solution/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/priya-mishra007/leetcode-solution/tree/master/1345-jump-game-iv) |
 | [3310-remove-methods-from-project](https://github.com/priya-mishra007/leetcode-solution/tree/master/3310-remove-methods-from-project) |
@@ -411,8 +413,10 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/priya-mishra007/leetcode-solution/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/priya-mishra007/leetcode-solution/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/priya-mishra007/leetcode-solution/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/priya-mishra007/leetcode-solution/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
