@@ -108,6 +108,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [0013-roman-to-integer](https://github.com/priya-mishra007/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/priya-mishra007/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/priya-mishra007/leetcode-solution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/priya-mishra007/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/priya-mishra007/leetcode-solution/tree/master/0091-decode-ways) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/priya-mishra007/leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/priya-mishra007/leetcode-solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -277,6 +278,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/priya-mishra007/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/priya-mishra007/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/priya-mishra007/leetcode-solution/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/priya-mishra007/leetcode-solution/tree/master/0091-decode-ways) |
@@ -415,6 +417,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/priya-mishra007/leetcode-solution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/priya-mishra007/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/priya-mishra007/leetcode-solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priya-mishra007/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
@@ -429,4 +432,8 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [0100-same-tree](https://github.com/priya-mishra007/leetcode-solution/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/priya-mishra007/leetcode-solution/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/priya-mishra007/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/priya-mishra007/leetcode-solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
