@@ -152,6 +152,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [0009-palindrome-number](https://github.com/priya-mishra007/leetcode-solution/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/priya-mishra007/leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/priya-mishra007/leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/priya-mishra007/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/priya-mishra007/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0486-predict-the-winner](https://github.com/priya-mishra007/leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priya-mishra007/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -286,6 +287,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [0022-generate-parentheses](https://github.com/priya-mishra007/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/priya-mishra007/leetcode-solution/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/priya-mishra007/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/priya-mishra007/leetcode-solution/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/priya-mishra007/leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
@@ -442,4 +444,8 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/priya-mishra007/leetcode-solution/tree/master/0022-generate-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/priya-mishra007/leetcode-solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
