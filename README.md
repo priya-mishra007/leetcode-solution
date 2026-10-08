@@ -112,6 +112,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [0022-generate-parentheses](https://github.com/priya-mishra007/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/priya-mishra007/leetcode-solution/tree/master/0091-decode-ways) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/priya-mishra007/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/priya-mishra007/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/priya-mishra007/leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/priya-mishra007/leetcode-solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/priya-mishra007/leetcode-solution/tree/master/1189-maximum-number-of-balloons) |
@@ -238,6 +239,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [0150-evaluate-reverse-polish-notation](https://github.com/priya-mishra007/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/priya-mishra007/leetcode-solution/tree/master/0636-exclusive-time-of-functions) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/priya-mishra007/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/priya-mishra007/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/priya-mishra007/leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/priya-mishra007/leetcode-solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1441-build-an-array-with-stack-operations](https://github.com/priya-mishra007/leetcode-solution/tree/master/1441-build-an-array-with-stack-operations) |
@@ -426,6 +428,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [0020-valid-parentheses](https://github.com/priya-mishra007/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/priya-mishra007/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/priya-mishra007/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/priya-mishra007/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/priya-mishra007/leetcode-solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priya-mishra007/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
