@@ -42,6 +42,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/priya-mishra007/leetcode-solution/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/priya-mishra007/leetcode-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/priya-mishra007/leetcode-solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priya-mishra007/leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priya-mishra007/leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -141,6 +142,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/priya-mishra007/leetcode-solution/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/priya-mishra007/leetcode-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
