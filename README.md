@@ -11,6 +11,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [0014-longest-common-prefix](https://github.com/priya-mishra007/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/priya-mishra007/leetcode-solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/priya-mishra007/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/priya-mishra007/leetcode-solution/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/priya-mishra007/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
@@ -312,6 +313,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/priya-mishra007/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/priya-mishra007/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0878-nth-magical-number](https://github.com/priya-mishra007/leetcode-solution/tree/master/0878-nth-magical-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priya-mishra007/leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
