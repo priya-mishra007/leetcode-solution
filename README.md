@@ -11,6 +11,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [0014-longest-common-prefix](https://github.com/priya-mishra007/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/priya-mishra007/leetcode-solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/priya-mishra007/leetcode-solution/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/priya-mishra007/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/priya-mishra007/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/priya-mishra007/leetcode-solution/tree/master/0055-jump-game) |
@@ -265,6 +266,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [0005-longest-palindromic-substring](https://github.com/priya-mishra007/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/priya-mishra007/leetcode-solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/priya-mishra007/leetcode-solution/tree/master/0031-next-permutation) |
 | [0977-squares-of-a-sorted-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priya-mishra007/leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/priya-mishra007/leetcode-solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
