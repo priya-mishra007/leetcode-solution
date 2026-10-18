@@ -241,6 +241,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/priya-mishra007/leetcode-solution/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/priya-mishra007/leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/priya-mishra007/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/priya-mishra007/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/priya-mishra007/leetcode-solution/tree/master/0636-exclusive-time-of-functions) |
@@ -373,6 +374,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/priya-mishra007/leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/priya-mishra007/leetcode-solution/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/priya-mishra007/leetcode-solution/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/priya-mishra007/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
@@ -446,12 +448,14 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/priya-mishra007/leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/priya-mishra007/leetcode-solution/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/priya-mishra007/leetcode-solution/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/priya-mishra007/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/priya-mishra007/leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/priya-mishra007/leetcode-solution/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/priya-mishra007/leetcode-solution/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/priya-mishra007/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
