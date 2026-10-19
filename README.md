@@ -43,6 +43,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [1929-concatenation-of-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/priya-mishra007/leetcode-solution/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/priya-mishra007/leetcode-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/priya-mishra007/leetcode-solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -95,6 +96,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priya-mishra007/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/priya-mishra007/leetcode-solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/priya-mishra007/leetcode-solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priya-mishra007/leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -319,6 +321,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [0035-search-insert-position](https://github.com/priya-mishra007/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0878-nth-magical-number](https://github.com/priya-mishra007/leetcode-solution/tree/master/0878-nth-magical-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priya-mishra007/leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |
