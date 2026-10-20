@@ -116,6 +116,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [0020-valid-parentheses](https://github.com/priya-mishra007/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/priya-mishra007/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/priya-mishra007/leetcode-solution/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/priya-mishra007/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/priya-mishra007/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/priya-mishra007/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/priya-mishra007/leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -270,6 +271,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 | [0015-3sum](https://github.com/priya-mishra007/leetcode-solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/priya-mishra007/leetcode-solution/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/priya-mishra007/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0977-squares-of-a-sorted-array](https://github.com/priya-mishra007/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priya-mishra007/leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/priya-mishra007/leetcode-solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
