@@ -223,6 +223,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/priya-mishra007/leetcode-solution/tree/master/0190-reverse-bits) |
 | [0645-set-mismatch](https://github.com/priya-mishra007/leetcode-solution/tree/master/0645-set-mismatch) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priya-mishra007/leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/priya-mishra007/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -335,6 +336,7 @@ This repository contains my Java solutions to LeetCode problems. It serves as a 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/priya-mishra007/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/priya-mishra007/leetcode-solution/tree/master/0190-reverse-bits) |
 ## Matrix
 |  |
 | ------- |
